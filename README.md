@@ -4,4 +4,6 @@ Read the data from sources like CSVs and SQL, and how to use libraries like Nump
 
 ## Project1
 
+### Mean, Median, Percentile Calculator
+
 In this project, the data was extracted from a CSV file and used to calculate the statistical parameters of Mean, Variance, and Percentiles/Median.
