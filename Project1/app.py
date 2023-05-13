@@ -3,7 +3,6 @@ import pandas as pd
 
 # Read the CSS file into a Pandas DataFrame
 data = pd.read_csv("/sample_data.csv")
-print(data.head())
 
 # Create the first graph showing CQI by sector
 fig1 = go.Figure()
