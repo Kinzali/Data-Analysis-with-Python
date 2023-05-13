@@ -10,4 +10,5 @@ In this project, the data was extracted from a CSV file and used to calculate th
 
 #### Outout
 
-![Screenshot of output](./Project1/results_Visuals/Screenshot 2023-05-13 at 20.19.44.jpeg)
+
+![Screenshot 2023-05-13 at 20 19 44](https://github.com/Kinzali/Data-Analysis-with-Python/assets/121554533/5e3d03d1-a0a3-4cf6-868e-4fd50c0b8b44)
