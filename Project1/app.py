@@ -1,23 +1,22 @@
-import plotly.graph_objects as go
 import pandas as pd
 
-# Read the CSS file into a Pandas DataFrame
-data = pd.read_csv("/sample_data.csv")
+# Read the CSV file into a pandas dataframe
+data = pd.read_csv("./data/sample_data.csv", delimiter=";")
 
-# Create the first graph showing CQI by sector
-fig1 = go.Figure()
-for sector in data["Product"].unique():
-    fig1.add_trace(go.Box(
-        x=data.loc[data["Product"] == sector]["Product"],
-        y=data.loc[data["Product"] == sector]["Revenue"],
-        name=sector
-    ))
-fig1.update_layout(
-    title="Revenue by Product",
-    xaxis_title="Product",
-    yaxis_title="Revenue"
-)
+# Calculate the mean, 25th, 50th, and 75th percentile for each column
+mean = data.mean()
+percentile_25 = data.quantile(0.25)
+percentile_50 = data.quantile(0.5)
+percentile_75 = data.quantile(0.75)
 
-# Display the graphs
-fig1.show()
+# Print the results
+print("Mean values:")
+print(mean)
+print("\n25th percentile values:")
+print(percentile_25)
+print("\n50th percentile values:")
+print(percentile_50)
+print("\n75th percentile values:")
+print(percentile_75)
+
 
