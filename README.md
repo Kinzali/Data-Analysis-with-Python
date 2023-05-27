@@ -2,7 +2,7 @@
 
 Read the data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
 
-## Project_2
+## Project_1
 
 ### Mean, Median, Percentile Calculator
 
