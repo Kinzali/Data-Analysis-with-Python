@@ -24,3 +24,14 @@ In this project, the data was extracted from a CSV file and visualize the data u
 ### Medical Data visualizer
 
 In this project, visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas.
+
+## Project_4
+
+### Product Analysis
+
+In this project, product analysis like yearly profits & margings trends has been analysed and visualizes
+
+#### Reulsts
+
+
+
