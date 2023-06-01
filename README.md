@@ -32,6 +32,9 @@ In this project, visualize and make calculations from medical examination data u
 In this project, product analysis like yearly profits & margings trends has been analysed and visualizes
 
 #### Reulsts
+![yearly_profit_margin_trend](https://github.com/Kinzali/Data-Analysis-with-Python/assets/121554533/499850f2-312f-4bb4-b12d-b183e21d42f1)
 
+![yearly_profit_margin](https://github.com/Kinzali/Data-Analysis-with-Python/assets/121554533/2521acd1-5430-4d21-9005-03eb611eba22)
 
+![yearly_profit_trend](https://github.com/Kinzali/Data-Analysis-with-Python/assets/121554533/9432a982-08d9-477e-829f-2e3f1aceeac9)
 
