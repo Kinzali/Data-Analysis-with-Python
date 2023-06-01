@@ -18,3 +18,9 @@ In this project, the data was extracted from a CSV file and used to calculate th
 ### Visualize Data with Bar graph
 
 In this project, the data was extracted from a CSV file and visualize the data using plotly bar graph.
+
+## Project_3
+
+### Medical Data visualizer
+
+In this project, visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas.
